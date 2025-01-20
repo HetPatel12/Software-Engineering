@@ -1,4 +1,6 @@
-[CIF Software Engineering](./CIF_Software_Engineering.pdf)
+To refer course curriculum, click on this link [CIF Software Engineering](./CIF_Software_Engineering.pdf)
+
+To refer video lectures of NPTEL IIT-KGP, click on this [YouTube Link](https://www.youtube.com/playlist?list=PLbRMhDVUMngf8oZR3DpKMvYhZKga90JVt)
 
 
 # System-Design
